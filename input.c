@@ -8,7 +8,7 @@ int main()
 {
     int i = 0;
 
-    while (++i < 10)
+    while (++i < 1000)
     {
         putdigit(i);
         puts(": Hello, World!\n");

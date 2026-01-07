@@ -6,7 +6,7 @@
 #include "Parser.h"
 #include <stdbool.h>
 
-#include "../VM/BytecodeBuilder.h"
+#include "../furnvm/BytecodeBuilder.h"
 
 typedef struct
 {
